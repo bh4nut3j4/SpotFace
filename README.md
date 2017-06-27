@@ -1,5 +1,5 @@
 # SpotFace
-Face and Eye Recignition App Using OpenCV <br>
+Face and Eye Detection App Using OpenCV <br>
 Download the haarcascade files <b>haarcascade_frontalface_alt.xml</b> and <b>haarcascade_eye_tree_eyeglasses.xml</b>
 from <b>"https://github.com/opencv/opencv/tree/master/data/haarcascades"</b>
 <br>
